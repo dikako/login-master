@@ -14,7 +14,7 @@
 	</head>
 	<body>
 		<div id='content'>
-			<h1>Digite sus datos para ingresar al sistema</h1>
+			<h1>Wellcome to Admin Login</h1>
 			<form id='FormLogin' method='post' action='procesaLogin.php'>
 				<label for='userName'>Usuario</label><br>
 				<input type='text' name='userName' id='userName' placeholder='Usuario...' > (Por defecto <b>admin</b>) <br><br>
