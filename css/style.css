@@ -1,0 +1,39 @@
+body{
+	background-color: #DDE;
+}
+a{
+	color: #77C;
+	text-decoration: none;
+}
+h1{
+	color: #77C;
+	text-align: center;
+}
+input{
+	color: #666;
+	padding: 5px;
+}
+#content{
+	background-color: #EEF;
+	border-radius: 10px;
+	box-shadow: 5px 3px 2px;
+	margin: 10px auto;
+	padding: 10px;
+	width: 600px;
+}
+#message{
+	margin: 0 0 10px 0;
+}
+.bad{
+	background-color: #F5DA81;
+	color: #F33;
+	font-weight: bold;
+	padding: 5px;
+}
+.button{
+	border-radius: 5px;
+	background-color: #55C;
+	box-shadow: 3px 3px 2px;
+	color: #FFF;
+	padding: 3px;
+}
