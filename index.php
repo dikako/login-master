@@ -16,7 +16,7 @@
 		<div id='content'>
 			<h1>Wellcome to Admin Login</h1>
 			<form id='FormLogin' method='post' action='procesaLogin.php'>
-				<label for='userName'>userName</label><br>
+				<label for='userName'>userNamedssssssssss</label><br>
 				<input type='text' name='userName' id='userName' placeholder='Usuario...' > For <b>admin</b>) <br><br>
 				<label for='password'>password</label><br>
 				<input type='password' name='password' id='password' placeholder='Contraseña...' >  (Por defecto <b>admin</b>) <br><br>
